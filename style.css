@@ -103,7 +103,7 @@ body {
 }
 
 .jumbotron {
-  background: url(https://www.bbglow.com/image/421-5-300-200-.jpg) center center;
+  background: url(https://lh4.googleusercontent.com/onudKOQiy0pHDwULPCVsETIMXERb64ofC7cFu3OzjGbahXalQ-6BTW7tSLbSogkR454J2op88zBVzD-H77hYuNnwjBEL--F-YjBF3An2PzzlUmxpx4E3SBTjxhXxMya1LMQTSxwS-rZhXB0OHQ) center center;
   background-size: cover;
   height: 600px; 
 }
@@ -126,7 +126,7 @@ body {
 .main .container h2 {
     color: rgb(63, 13, 56); 
     text-align: center; 
-    font-family: 'Roboto', sans-serif;
+    font-family: Roboto, sans-serif;
   }
 
 .jumbotron .btn {
